@@ -2,7 +2,7 @@ package com.example.task03;
 
 public class Task03Main {
 
-    public int getMetreFromCentimetre(int centimetre) {
+    public static int getMetreFromCentimetre(int centimetre) {
     return centimetre / 100; // Целочисленное деление отбрасывает остаток
 }
 
