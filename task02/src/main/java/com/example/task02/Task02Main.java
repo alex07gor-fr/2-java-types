@@ -2,7 +2,7 @@ package com.example.task02;
 
 public class Task02Main {
 
-public String solution(String input) 
+public static String solution(String input) 
 {
     long num = Long.parseLong(input); // Считываем как long, чтобы не переполниться
 
